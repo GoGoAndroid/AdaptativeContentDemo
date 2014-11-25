@@ -1,0 +1,2196 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2745 units from cache.
+Compiling...
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   90% complete (ETR: 0 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11,80 seconds
+Validating units:
+   Errors in 'file:/Users/sgoyet/Documents/workspace-websites/AdatativeTextDemo/src/com/gosimple/adaptativetext/client/fonts_util/FontsUtil.java'
+      Line 26: No source code is available for type com.google.gwt.dev.util.collect.HashMap<K,V>; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base_BaseUiBinderImpl_designTime1415619634727_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base_BaseUiBinderImpl_designTime1415619636993_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base.BaseUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base_BaseUiBinderImpl_designTime1415619651220_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base.BaseUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,14 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base_BaseUiBinderImpl_designTime1415619651320_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base_BaseUiBinderImpl_designTime1415619655635_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base_BaseUiBinderImpl_designTime1415619657096_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base_BaseUiBinderImpl_designTime1415619683990_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.components.ui.Base_BaseUiBinderImpl_designTime1415619684110_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2745 units from cache.
+Compiling...
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10,69 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415621606990_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+[ERROR] Failed to create an instance of 'com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget' via deferred binding 
+java.lang.NullPointerException
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.build(FontsUtil.java:28)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.checkSet(FontsUtil.java:21)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.setSize(FontsUtil.java:63)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setFontSize(HTMLAdatativeFontSizeWidget.java:117)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setText(HTMLAdatativeFontSizeWidget.java:113)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.<init>(HTMLAdatativeFontSizeWidget.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:480)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415621606990.createAndBindUi(Base_BaseUiBinderImpl_designTime1415621606990.java:30)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415621606990.createAndBindUi(Base_BaseUiBinderImpl_designTime1415621606990.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.activate(UndoManager.java:85)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.setActive(XmlDesignPage.java:171)
+	at org.eclipse.wb.internal.core.xml.editor.AbstractXmlEditor.pageChange(AbstractXmlEditor.java:652)
+	at org.eclipse.ui.part.MultiPageEditorPart$2.widgetSelected(MultiPageEditorPart.java:294)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3110)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1794)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:283)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2745 units from cache.
+Compiling...
+   40% complete (ETR: 5 seconds)
+   40% complete (ETR: 5 seconds)
+   40% complete (ETR: 5 seconds)
+   40% complete (ETR: 5 seconds)
+   40% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 12,72 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622032292_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+[ERROR] Failed to create an instance of 'com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget' via deferred binding 
+java.lang.NullPointerException
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.build(FontsUtil.java:28)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.checkSet(FontsUtil.java:21)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.setSize(FontsUtil.java:63)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setFontSize(HTMLAdatativeFontSizeWidget.java:100)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setText(HTMLAdatativeFontSizeWidget.java:96)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.<init>(HTMLAdatativeFontSizeWidget.java:33)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:480)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622032292.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622032292.java:30)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622032292.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622032292.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.activate(UndoManager.java:85)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.setActive(XmlDesignPage.java:171)
+	at org.eclipse.wb.internal.core.xml.editor.AbstractXmlEditor.pageChange(AbstractXmlEditor.java:652)
+	at org.eclipse.ui.part.MultiPageEditorPart$2.widgetSelected(MultiPageEditorPart.java:294)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3110)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1794)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:283)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Public resources found in...
+Translatable source found in...
+Found 2744 cached/archived units.  Used 2744 / 2745 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622195744_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Failed to create an instance of 'com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget' via deferred binding 
+java.lang.NullPointerException
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.build(FontsUtil.java:28)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.checkSet(FontsUtil.java:21)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.setSize(FontsUtil.java:63)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setFontSize(HTMLAdatativeFontSizeWidget.java:95)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setText(HTMLAdatativeFontSizeWidget.java:91)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.<init>(HTMLAdatativeFontSizeWidget.java:31)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:480)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.GeneratedMethodAccessor178.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622195744.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622195744.java:30)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622195744.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622195744.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.updateGEF(XmlDesignPage.java:361)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.refreshGEF(XmlDesignPage.java:354)
+	at org.eclipse.wb.internal.core.xml.editor.actions.RefreshAction.run(RefreshAction.java:47)
+	at org.eclipse.wb.internal.core.xml.editor.actions.DesignPageAction.run(DesignPageAction.java:35)
+	at org.eclipse.wb.internal.core.xml.editor.XmlExceptionComposite.doRefresh(XmlExceptionComposite.java:65)
+	at org.eclipse.wb.internal.core.editor.errors.ExceptionComposite$3.widgetSelected(ExceptionComposite.java:129)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Public resources found in...
+Translatable source found in...
+Found 2744 cached/archived units.  Used 2744 / 2745 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622252580_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+[ERROR] Failed to create an instance of 'com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget' via deferred binding 
+java.lang.NullPointerException
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.build(FontsUtil.java:28)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.checkSet(FontsUtil.java:21)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.setSize(FontsUtil.java:63)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setFontSize(HTMLAdatativeFontSizeWidget.java:95)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setText(HTMLAdatativeFontSizeWidget.java:91)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.<init>(HTMLAdatativeFontSizeWidget.java:31)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:480)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.GeneratedMethodAccessor178.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622252580.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622252580.java:30)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622252580.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622252580.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.updateGEF(XmlDesignPage.java:361)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.refreshGEF(XmlDesignPage.java:354)
+	at org.eclipse.wb.internal.core.xml.editor.actions.RefreshAction.run(RefreshAction.java:47)
+	at org.eclipse.wb.internal.core.xml.editor.actions.DesignPageAction.run(DesignPageAction.java:35)
+	at org.eclipse.wb.internal.core.xml.editor.XmlExceptionComposite.doRefresh(XmlExceptionComposite.java:65)
+	at org.eclipse.wb.internal.core.editor.errors.ExceptionComposite$3.widgetSelected(ExceptionComposite.java:129)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2745 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Invalid Unit: com.gosimple.adaptativetext.client.AdatativeTextDemo
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622519930_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Failed to create an instance of 'com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget' via deferred binding 
+java.lang.NullPointerException
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.build(FontsUtil.java:28)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.checkSet(FontsUtil.java:21)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.setSize(FontsUtil.java:63)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setFontSize(HTMLAdatativeFontSizeWidget.java:94)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setText(HTMLAdatativeFontSizeWidget.java:90)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.<init>(HTMLAdatativeFontSizeWidget.java:31)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:480)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.GeneratedMethodAccessor178.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622519930.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622519930.java:30)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622519930.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622519930.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.updateGEF(XmlDesignPage.java:361)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.refreshGEF(XmlDesignPage.java:354)
+	at org.eclipse.wb.internal.core.xml.editor.actions.RefreshAction.run(RefreshAction.java:47)
+	at org.eclipse.wb.internal.core.xml.editor.actions.DesignPageAction.run(DesignPageAction.java:35)
+	at org.eclipse.wb.internal.core.xml.editor.XmlExceptionComposite.doRefresh(XmlExceptionComposite.java:65)
+	at org.eclipse.wb.internal.core.editor.errors.ExceptionComposite$3.widgetSelected(ExceptionComposite.java:129)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2745 units from cache.
+Compiling...
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 16,61 seconds
+Validating units:
+   Errors in 'file:/Users/sgoyet/Documents/workspace-websites/AdatativeTextDemo/src/com/gosimple/adaptativetext/client/AdatativeTextDemo.java'
+      Line 46: testZone cannot be resolved or is not a field
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/Users/sgoyet/Documents/workspace-websites/AdatativeTextDemo/src/com/gosimple/adaptativetext/client/AdatativeTextDemo.java'
+      [ERROR] Line 46: testZone cannot be resolved or is not a field
+   [ERROR] Unable to find type 'com.gosimple.adaptativetext.client.AdatativeTextDemo'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2743 cached/archived units.  Used 2743 / 2745 units from cache.
+Compiling...
+   Compilation completed in 0,02 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622971138_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Failed to create an instance of 'com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget' via deferred binding 
+java.lang.NullPointerException
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.build(FontsUtil.java:30)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.checkSet(FontsUtil.java:23)
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.setSize(FontsUtil.java:65)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setFontSize(HTMLAdatativeFontSizeWidget.java:94)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setText(HTMLAdatativeFontSizeWidget.java:90)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.<init>(HTMLAdatativeFontSizeWidget.java:31)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:480)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622971138.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622971138.java:30)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415622971138.createAndBindUi(Base_BaseUiBinderImpl_designTime1415622971138.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.activate(UndoManager.java:85)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.setActive(XmlDesignPage.java:171)
+	at org.eclipse.wb.internal.core.xml.editor.AbstractXmlEditor.pageChange(AbstractXmlEditor.java:652)
+	at org.eclipse.ui.part.MultiPageEditorPart$2.widgetSelected(MultiPageEditorPart.java:294)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3110)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1794)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:283)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Public resources found in...
+Translatable source found in...
+Found 2744 cached/archived units.  Used 2744 / 2745 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415623092345_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+[ERROR] Failed to create an instance of 'com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget' via deferred binding 
+java.lang.NullPointerException
+	at com.gosimple.adaptativetext.client.fonts_util.FontsUtil.setSize(FontsUtil.java:88)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setFontSize(HTMLAdatativeFontSizeWidget.java:94)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.setText(HTMLAdatativeFontSizeWidget.java:90)
+	at com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget.<init>(HTMLAdatativeFontSizeWidget.java:31)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:480)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.GeneratedMethodAccessor195.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415623092345.createAndBindUi(Base_BaseUiBinderImpl_designTime1415623092345.java:30)
+	at com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415623092345.createAndBindUi(Base_BaseUiBinderImpl_designTime1415623092345.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.updateGEF(XmlDesignPage.java:361)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.refreshGEF(XmlDesignPage.java:354)
+	at org.eclipse.wb.internal.core.xml.editor.actions.RefreshAction.run(RefreshAction.java:47)
+	at org.eclipse.wb.internal.core.xml.editor.actions.DesignPageAction.run(DesignPageAction.java:35)
+	at org.eclipse.wb.internal.core.xml.editor.XmlExceptionComposite.doRefresh(XmlExceptionComposite.java:65)
+	at org.eclipse.wb.internal.core.editor.errors.ExceptionComposite$3.widgetSelected(ExceptionComposite.java:129)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Public resources found in...
+Translatable source found in...
+Found 2744 cached/archived units.  Used 2744 / 2745 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Invalid Unit: com.gosimple.adaptativetext.client.components.HTMLAdatativeFontSizeWidget
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415623204186_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415623204792_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637494682_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637495090_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637496415_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,10 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637765986.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637765986.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,16 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637765986_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637769554.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637769554.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637769554_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637901193.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637901193.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637901193_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637901574.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637901574.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637901574_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637950130.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637950130.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637950130_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637950562.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637950562.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637950562_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637962189.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637962189.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637962189_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637962357.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637962357.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637962357_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637994803.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637994803.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637994803_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637995119.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637995119.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415637995119_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638009000.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638009000.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638009000_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638009110.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638009110.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638009110_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638026114.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638026114.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638026114_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638039256.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638039256.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638039256_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638050788.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638050788.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638050788_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638107440.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638107440.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638107440_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638107588.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638107588.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638107588_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638131993_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638132064_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638133412.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638133412.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638133412_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638140585.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638140585.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638140585_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638144673.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638144673.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638144673_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638153105.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638153105.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638153105_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638167231.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638167231.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638167231_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638167338.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638167338.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638167338_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638183780.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638183780.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638183780_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638183893.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638183893.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638183893_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638210135.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638210135.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638210135_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638210259.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638210259.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638210259_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638855932.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638855932.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638855932_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638856766.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638856766.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415638856766_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415639522141.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415639522141.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415639522141_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415639522945.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415639522945.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415639522945_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415639538453.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415639538453.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415639538453_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415644383670.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415644383670.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415644383670_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415644384457.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415644384457.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415644384457_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415644385826.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415644385826.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1415644385826_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2745 units from cache.
+Compiling...
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   20% complete (ETR: 15 seconds)
+   20% complete (ETR: 15 seconds)
+   20% complete (ETR: 15 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 27,48 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2761 units from cache.
+Compiling...
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 13,73 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Element type "g:layer" must be followed by either attribute specifications, ">" or "/>".
+      [ERROR] Error parsing XML (line 14): Element type "g:layer" must be followed by either attribute specifications, ">" or "/>".
+[ERROR] Deferred binding failed for 'com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2761 cached/archived units.  Used 2761 / 2761 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2761 cached/archived units.  Used 2761 / 2761 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Only <l:layer> children are allowed.: <g:layer height='50%' left='0%' top='0%' width='50%'> (:13)
+[ERROR] Deferred binding failed for 'com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2761 cached/archived units.  Used 2761 / 2761 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] com.gosimple.adaptativetext.client.ui.ArrangedLayoutPanel has no default (zero args) constructor. To fix this, you can define a @UiFactory method on the UiBinder's owner, or annotate a constructor of ArrangedLayoutPanel with @UiConstructor.
+[ERROR] Deferred binding failed for 'com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2760 cached/archived units.  Used 2760 / 2761 units from cache.
+Compiling...
+   Compilation completed in 0,14 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1416089595608_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2759 cached/archived units.  Used 2759 / 2761 units from cache.
+Compiling...
+   Compilation completed in 0,17 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1416089754103_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base.BaseUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimple.adaptativetext.client.ui.Base_BaseUiBinderImpl_designTime1416089755313_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 83 seconds)
+   20% complete (ETR: 52 seconds)
+   30% complete (ETR: 33 seconds)
+   40% complete (ETR: 23 seconds)
+   50% complete (ETR: 16 seconds)
+   60% complete (ETR: 12 seconds)
+   70% complete (ETR: 8 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 59,33 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
